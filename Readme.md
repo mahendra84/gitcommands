@@ -1,4 +1,4 @@
-# Git Commands
+# Complete Git Commands in one Place
 
 git config –global user.name “[name]” ->sets author name
 
